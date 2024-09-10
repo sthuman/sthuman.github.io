@@ -1,1 +1,1 @@
-The folder contains the code and report for the time series analysis of US birthrate dataset (seasonal) and Bitcoin closing prices dataset (non-seasonal). 
+The folder contains report for the time series analysis of US birthrate dataset (seasonal) and Bitcoin closing prices dataset (non-seasonal) and the code for the time series analysis of the US birthrate dataset. The time series analysis of the Bitcoin clsoing price dataset was done by the other group members.
